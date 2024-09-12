@@ -2,8 +2,10 @@
 <hr>
 Please Learn laravel if you do not  understand
 
-
+<p> You must use TERMINAL! or Putty or other stuff you guys got</p>
+<p>So First you have to do</p>
 <H3>composer updat</H3>
+<p>and then!</p>
 <H3>php artisan key:generate</H3>
 Connect the db and then
 
