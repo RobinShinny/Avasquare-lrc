@@ -11,3 +11,8 @@ Connect the db which means database go to .env.example replace it with .env and 
 <p> then do</p>
 <H3>php artisan migrate</H3>
 <p>please go ahead over to config and then go to site.php where it shows the urls replace them with the one you currently have and then it should fully work with no problems!</p>
+
+
+<h1>If, you guys have been wondering Vextoria, vixtoria, Avaplay, Avasquares, brickite, retrimo! used this src im sure they fixed the backdoor or anything idk if there's a backdoors so there you go this src is all yours download it if you want idrc anymore</h1>
+
+<p>You must fix the backdoor and fixed the site and add security so no one hacks the site</p>
