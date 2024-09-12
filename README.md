@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/FoxxoSnoot/laravel-roblox-clone/main/public/img/logo.png" width="400" style="max-width: 100%;"></p>
 <hr>
-Please Learn, laravel in youtube how to setup is first  do
+Please Learn laravel if you do not  understand
 
 
 <H3>composer updat</H3>
